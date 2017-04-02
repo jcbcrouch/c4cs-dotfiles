@@ -1,0 +1,5 @@
+#Caen
+Host mmd
+  HostName login.engin.umich.edu
+  User jwcrouch
+  Compression yes
